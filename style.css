@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pubg {
+    /* image 3 */
+    position: absolute;
+    width: 56px;
+    height: 46px;
+    left: 57px;
+    right: 1327px;
+    top: 18px;
+    bottom: 960px;
+}
+
+.nav {
+    width: 1440px;
+    height: 82px;
+    background: rgb(0, 0, 0);
+}
+
+
+
+.vector {
+    position: absolute;
+    padding: 28px 28px;
+    left: 916px;
+}
+
+.ul {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    width: 192px;
+    height: 82px;
+    background: rgb(241, 169, 0);
+    margin-left: 1078px;
+    /* Rectangle 2 */
+    position: absolute;
+    width: 192px;
+    height: 82px;
+    right: 57px;
+    top: 0;
+    bottom: 942px;
+}
+
+.btn_title {
+    color: rgb(0, 0, 0);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+}
+
+.eng {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+
+    position: absolute;
+    width: 76px;
+    height: 15px;
+    right: 293px;
+    top: 34px;
+    bottom: 975px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* 2-nav */
+.navbar_2 {
+    width: 1440px;
+    height: 44px;
+    background: rgb(34, 34, 34);
+    position: absolute;
+    width: 1440px;
+    height: 44px;
+    left: 0;
+    right: 0;
+    top: 82px;
+    bottom: 898px;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+}
+
+.ul_2 {
+    gap: 117px;
+    display: flex;
+    position: absolute;
+    padding: 15px 13px;
+}
+
+.text {
+    margin-left: 285px;
+}
+
+.img {
+    background-image: url(./img/image\ 5\ \(1\).png);
+    /* image 5 */
+    position: absolute;
+    width: 1440px;
+    height: 797px;
+    top: 126px;
+    bottom: 101px;
+}
+
+.btn_1 {
+    width: 235px;
+    height: 73px;
+    background: rgb(241, 169, 0);
+    z-index: 9999;
+    border: none;
+}
+
+.PC {
+    color: rgb(0, 0, 0);
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+.btns {
+    text-align: center;
+    padding-top: 349px;
+}
+
+.btn_2 {
+    width: 235px;
+    height: 73px;
+    background: rgb(0, 0, 0);
+    margin-left: 64px;
+    border: none;
+}
+
+.CONSOLE {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+.box {
+    width: 966px;
+    height: 202px;
+    background-color: rgba(241, 169, 0, 0.33);
+    margin-left: 263px;
+    margin-top: 31px;
+}
+
+.ERANGEL {
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 180px;
+    text-align: center;
+}
+
+/* 3-nav */
+.navbar_3 {
+    width: 1440px;
+    height: 101px;
+    background: rgb(0, 0, 0);
+    /* Rectangle 4 */
+    position: absolute;
+    width: 1440px;
+    height: 101px;
+    left: 0;
+    right: 0;
+    top: 923px;
+    bottom: 0;
+}
+
+.nav_img1 {
+    position: absolute;
+    padding: 28px 27px;
+}
+
+.nav_img2 {
+    position: absolute;
+    padding: 38px 43px;
+    left: 1052px;
+}
+
+.nav_img3 {
+    position: absolute;
+    padding: 40px 44px;
+    left: 1127px;
+}
+
+.nav_img4 {
+    position: absolute;
+    padding: 36px 41px;
+    left: 1203px;
+}
